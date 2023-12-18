@@ -19,4 +19,9 @@ public class PaymentController {
     public Payment doPayment(@RequestBody Payment payment) {
         return service.doPayment(payment);
     }
+
+    @GetMapping("/{orderId}")
+    public Payment findPaymentHistoryByOrderId(@PathVariable int orderId){
+        return service.findPaymentHistoryByOrderId(orderId);
+    }
 }
