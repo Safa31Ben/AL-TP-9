@@ -218,3 +218,18 @@
 2023-12-21T18:11:53.723+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2023-12-21T18:16:13.100+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2023-12-21T18:16:53.734+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:21:13.112+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:21:53.742+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:26:13.118+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:37:08.302+01:00  WARN 8232 --- [PAYMENT-SERVICE] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m45s407ms138µs900ns).
+2023-12-21T18:37:09.143+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:37:25.244+01:00  WARN 1940 --- [ORDER-SERVICE] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m45s403ms140µs100ns).
+2023-12-21T18:41:28.518+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:42:09.163+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:46:28.527+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:47:09.178+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:51:28.540+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:52:09.182+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:56:28.555+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:57:09.192+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T19:01:28.570+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
