@@ -6,3 +6,6 @@ spring:
       enabled: true
   application:
     name: PAYMENT-SERVICE
+logging:
+  file:
+    name: C:\Users\DELL\Desktop\AL pdf\TP 9\Code\logs\microservice.log
