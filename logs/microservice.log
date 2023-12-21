@@ -216,3 +216,5 @@
 2023-12-21T18:06:53.710+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2023-12-21T18:11:13.089+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2023-12-21T18:11:53.723+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:16:13.100+01:00  INFO 1940 --- [ORDER-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-12-21T18:16:53.734+01:00  INFO 8232 --- [PAYMENT-SERVICE] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
