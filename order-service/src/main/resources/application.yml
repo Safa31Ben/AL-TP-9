@@ -6,12 +6,6 @@ spring:
       enabled: true
   application:
     name: ORDER-SERVICE
-
-eureka:
-  client:
-    register-with-eureka: true
-    fetch-registry: true
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
-#  instance:
-#      hostname: localhost
+logging:
+  file:
+    name: C:\Users\DELL\Desktop\AL pdf\TP 9\Code\logs\microservice.log
